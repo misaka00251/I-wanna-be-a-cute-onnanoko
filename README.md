@@ -8,7 +8,7 @@
 
 ## 登场人物
 
-[暂存档于自建 Wiki 服务](https://wiki.251.sh/%E5%B0%B1%E7%AE%97%E6%98%AF%E7%94%B7%E5%AD%A9%E5%AD%90%E5%8F%AA%E8%A6%81%E6%9C%89%E7%88%B1%E5%B0%B1%E6%B2%A1%E9%97%AE%E9%A2%98%E4%BA%86%E5%90%A7)
+您可以在[自建 Git 服务](https://code.251.sh/misaka00251/I-wanna-be-a-cute-onnanoko/wiki/%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)或[GitHub 仓库](https://github.com/misaka00251/I-wanna-be-a-cute-onnanoko/wiki/%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)上阅读到最新的人物列表。
 
 ## 备注
 
