@@ -19,4 +19,6 @@
 
 原则上，GitHub 仓库为[自建 Git 服务](https://code.251.sh/misaka00251/I-wanna-be-a-cute-onnanoko)的一个镜像。
 
-欢迎在 Issue 中讨论，以及（待我解决多远程库同步的问题再）提交 Pull Request 来贡献您的 Idea！
+欢迎在 Issue 中讨论，以及提交 Pull Request 来贡献您的 Idea！
+
+对了！我们建议您先阅读[《中文文案排版指北》](https://github.com/sparanoid/chinese-copywriting-guidelines)，阅读后付诸于实践的人都是好孩子哦！
