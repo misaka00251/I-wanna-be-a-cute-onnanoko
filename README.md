@@ -17,7 +17,7 @@
 
 ## 参与该项目
 
-原则上，GitHub 仓库为[自建 Git 服务](https://code.251.sh/misaka00251/I-wanna-be-a-cute-onnanoko)的一个镜像。
+原则上，GitHub 仓库为[自建 Git 服务](https://git.251.sh/misaka00251/I-wanna-be-a-cute-onnanoko)的一个镜像。
 
 欢迎在 Issue 中讨论，以及提交 Pull Request 来贡献您的 Idea！
 
